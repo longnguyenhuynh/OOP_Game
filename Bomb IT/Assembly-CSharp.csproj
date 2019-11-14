@@ -63,6 +63,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Game\Script\BombSpawner.cs" />
     <Compile Include="Assets\Game\Script\PlayerMovement.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/OOP_Game/Bomb IT/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
