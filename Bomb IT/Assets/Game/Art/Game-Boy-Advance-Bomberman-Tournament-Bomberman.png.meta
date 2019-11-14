@@ -1,0 +1,3858 @@
+fileFormatVersion: 2
+guid: a5b741341d4f0ec45ac64f62d70381e4
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Game-Boy-Advance-Bomberman-Tournament-Bomberman_0
+    21300002: Game-Boy-Advance-Bomberman-Tournament-Bomberman_1
+    21300004: Game-Boy-Advance-Bomberman-Tournament-Bomberman_2
+    21300006: Game-Boy-Advance-Bomberman-Tournament-Bomberman_3
+    21300008: Game-Boy-Advance-Bomberman-Tournament-Bomberman_4
+    21300010: Game-Boy-Advance-Bomberman-Tournament-Bomberman_5
+    21300012: Game-Boy-Advance-Bomberman-Tournament-Bomberman_6
+    21300014: Game-Boy-Advance-Bomberman-Tournament-Bomberman_7
+    21300016: Game-Boy-Advance-Bomberman-Tournament-Bomberman_8
+    21300018: Game-Boy-Advance-Bomberman-Tournament-Bomberman_9
+    21300020: Game-Boy-Advance-Bomberman-Tournament-Bomberman_10
+    21300022: Game-Boy-Advance-Bomberman-Tournament-Bomberman_11
+    21300024: Game-Boy-Advance-Bomberman-Tournament-Bomberman_12
+    21300026: Game-Boy-Advance-Bomberman-Tournament-Bomberman_13
+    21300028: Game-Boy-Advance-Bomberman-Tournament-Bomberman_14
+    21300030: Game-Boy-Advance-Bomberman-Tournament-Bomberman_15
+    21300032: Game-Boy-Advance-Bomberman-Tournament-Bomberman_16
+    21300034: Game-Boy-Advance-Bomberman-Tournament-Bomberman_17
+    21300036: Game-Boy-Advance-Bomberman-Tournament-Bomberman_18
+    21300038: Game-Boy-Advance-Bomberman-Tournament-Bomberman_19
+    21300040: Game-Boy-Advance-Bomberman-Tournament-Bomberman_20
+    21300042: Game-Boy-Advance-Bomberman-Tournament-Bomberman_21
+    21300044: Game-Boy-Advance-Bomberman-Tournament-Bomberman_22
+    21300046: Game-Boy-Advance-Bomberman-Tournament-Bomberman_23
+    21300048: Game-Boy-Advance-Bomberman-Tournament-Bomberman_24
+    21300050: Game-Boy-Advance-Bomberman-Tournament-Bomberman_25
+    21300052: Game-Boy-Advance-Bomberman-Tournament-Bomberman_26
+    21300054: Game-Boy-Advance-Bomberman-Tournament-Bomberman_27
+    21300056: Game-Boy-Advance-Bomberman-Tournament-Bomberman_28
+    21300058: Game-Boy-Advance-Bomberman-Tournament-Bomberman_29
+    21300060: Game-Boy-Advance-Bomberman-Tournament-Bomberman_30
+    21300062: Game-Boy-Advance-Bomberman-Tournament-Bomberman_31
+    21300064: Game-Boy-Advance-Bomberman-Tournament-Bomberman_32
+    21300066: Game-Boy-Advance-Bomberman-Tournament-Bomberman_33
+    21300068: Game-Boy-Advance-Bomberman-Tournament-Bomberman_34
+    21300070: Game-Boy-Advance-Bomberman-Tournament-Bomberman_35
+    21300072: Game-Boy-Advance-Bomberman-Tournament-Bomberman_36
+    21300074: Game-Boy-Advance-Bomberman-Tournament-Bomberman_37
+    21300076: Game-Boy-Advance-Bomberman-Tournament-Bomberman_38
+    21300078: Game-Boy-Advance-Bomberman-Tournament-Bomberman_39
+    21300080: Game-Boy-Advance-Bomberman-Tournament-Bomberman_40
+    21300082: Game-Boy-Advance-Bomberman-Tournament-Bomberman_41
+    21300084: Game-Boy-Advance-Bomberman-Tournament-Bomberman_42
+    21300086: Game-Boy-Advance-Bomberman-Tournament-Bomberman_43
+    21300088: Game-Boy-Advance-Bomberman-Tournament-Bomberman_44
+    21300090: Game-Boy-Advance-Bomberman-Tournament-Bomberman_45
+    21300092: Game-Boy-Advance-Bomberman-Tournament-Bomberman_46
+    21300094: Game-Boy-Advance-Bomberman-Tournament-Bomberman_47
+    21300096: Game-Boy-Advance-Bomberman-Tournament-Bomberman_48
+    21300098: Game-Boy-Advance-Bomberman-Tournament-Bomberman_49
+    21300100: Game-Boy-Advance-Bomberman-Tournament-Bomberman_50
+    21300102: Game-Boy-Advance-Bomberman-Tournament-Bomberman_51
+    21300104: Game-Boy-Advance-Bomberman-Tournament-Bomberman_52
+    21300106: Game-Boy-Advance-Bomberman-Tournament-Bomberman_53
+    21300108: Game-Boy-Advance-Bomberman-Tournament-Bomberman_54
+    21300110: Game-Boy-Advance-Bomberman-Tournament-Bomberman_55
+    21300112: Game-Boy-Advance-Bomberman-Tournament-Bomberman_56
+    21300114: Game-Boy-Advance-Bomberman-Tournament-Bomberman_57
+    21300116: Game-Boy-Advance-Bomberman-Tournament-Bomberman_58
+    21300118: Game-Boy-Advance-Bomberman-Tournament-Bomberman_59
+    21300120: Game-Boy-Advance-Bomberman-Tournament-Bomberman_60
+    21300122: Game-Boy-Advance-Bomberman-Tournament-Bomberman_61
+    21300124: Game-Boy-Advance-Bomberman-Tournament-Bomberman_62
+    21300126: Game-Boy-Advance-Bomberman-Tournament-Bomberman_63
+    21300128: Game-Boy-Advance-Bomberman-Tournament-Bomberman_64
+    21300130: Game-Boy-Advance-Bomberman-Tournament-Bomberman_65
+    21300132: Game-Boy-Advance-Bomberman-Tournament-Bomberman_66
+    21300134: Game-Boy-Advance-Bomberman-Tournament-Bomberman_67
+    21300136: Game-Boy-Advance-Bomberman-Tournament-Bomberman_68
+    21300138: Game-Boy-Advance-Bomberman-Tournament-Bomberman_69
+    21300140: Game-Boy-Advance-Bomberman-Tournament-Bomberman_70
+    21300142: Game-Boy-Advance-Bomberman-Tournament-Bomberman_71
+    21300144: Game-Boy-Advance-Bomberman-Tournament-Bomberman_72
+    21300146: Game-Boy-Advance-Bomberman-Tournament-Bomberman_73
+    21300148: Game-Boy-Advance-Bomberman-Tournament-Bomberman_74
+    21300150: Game-Boy-Advance-Bomberman-Tournament-Bomberman_75
+    21300152: Game-Boy-Advance-Bomberman-Tournament-Bomberman_76
+    21300154: Game-Boy-Advance-Bomberman-Tournament-Bomberman_77
+    21300156: Game-Boy-Advance-Bomberman-Tournament-Bomberman_78
+    21300158: Game-Boy-Advance-Bomberman-Tournament-Bomberman_79
+    21300160: Game-Boy-Advance-Bomberman-Tournament-Bomberman_80
+    21300162: Game-Boy-Advance-Bomberman-Tournament-Bomberman_81
+    21300164: Game-Boy-Advance-Bomberman-Tournament-Bomberman_82
+    21300166: Game-Boy-Advance-Bomberman-Tournament-Bomberman_83
+    21300168: Game-Boy-Advance-Bomberman-Tournament-Bomberman_84
+    21300170: Game-Boy-Advance-Bomberman-Tournament-Bomberman_85
+    21300172: Game-Boy-Advance-Bomberman-Tournament-Bomberman_86
+    21300174: Game-Boy-Advance-Bomberman-Tournament-Bomberman_87
+    21300176: Game-Boy-Advance-Bomberman-Tournament-Bomberman_88
+    21300178: Game-Boy-Advance-Bomberman-Tournament-Bomberman_89
+    21300180: Game-Boy-Advance-Bomberman-Tournament-Bomberman_90
+    21300182: Game-Boy-Advance-Bomberman-Tournament-Bomberman_91
+    21300184: Game-Boy-Advance-Bomberman-Tournament-Bomberman_92
+    21300186: Game-Boy-Advance-Bomberman-Tournament-Bomberman_93
+    21300188: Game-Boy-Advance-Bomberman-Tournament-Bomberman_94
+    21300190: Game-Boy-Advance-Bomberman-Tournament-Bomberman_95
+    21300192: Game-Boy-Advance-Bomberman-Tournament-Bomberman_96
+    21300194: Game-Boy-Advance-Bomberman-Tournament-Bomberman_97
+    21300196: Game-Boy-Advance-Bomberman-Tournament-Bomberman_98
+    21300198: Game-Boy-Advance-Bomberman-Tournament-Bomberman_99
+    21300200: Game-Boy-Advance-Bomberman-Tournament-Bomberman_100
+    21300202: Game-Boy-Advance-Bomberman-Tournament-Bomberman_101
+    21300204: Game-Boy-Advance-Bomberman-Tournament-Bomberman_102
+    21300206: Game-Boy-Advance-Bomberman-Tournament-Bomberman_103
+    21300208: Game-Boy-Advance-Bomberman-Tournament-Bomberman_104
+    21300210: Game-Boy-Advance-Bomberman-Tournament-Bomberman_105
+    21300212: Game-Boy-Advance-Bomberman-Tournament-Bomberman_106
+    21300214: Game-Boy-Advance-Bomberman-Tournament-Bomberman_107
+    21300216: Game-Boy-Advance-Bomberman-Tournament-Bomberman_108
+    21300218: Game-Boy-Advance-Bomberman-Tournament-Bomberman_109
+    21300220: Game-Boy-Advance-Bomberman-Tournament-Bomberman_110
+    21300222: Game-Boy-Advance-Bomberman-Tournament-Bomberman_111
+    21300224: Game-Boy-Advance-Bomberman-Tournament-Bomberman_112
+    21300226: Game-Boy-Advance-Bomberman-Tournament-Bomberman_113
+    21300228: Game-Boy-Advance-Bomberman-Tournament-Bomberman_114
+    21300230: Game-Boy-Advance-Bomberman-Tournament-Bomberman_115
+    21300232: Game-Boy-Advance-Bomberman-Tournament-Bomberman_116
+    21300234: Game-Boy-Advance-Bomberman-Tournament-Bomberman_117
+    21300236: Game-Boy-Advance-Bomberman-Tournament-Bomberman_118
+    21300238: Game-Boy-Advance-Bomberman-Tournament-Bomberman_119
+    21300240: Game-Boy-Advance-Bomberman-Tournament-Bomberman_120
+    21300242: Game-Boy-Advance-Bomberman-Tournament-Bomberman_121
+    21300244: Game-Boy-Advance-Bomberman-Tournament-Bomberman_122
+    21300246: Game-Boy-Advance-Bomberman-Tournament-Bomberman_123
+    21300248: Game-Boy-Advance-Bomberman-Tournament-Bomberman_124
+    21300250: Game-Boy-Advance-Bomberman-Tournament-Bomberman_125
+    21300252: Game-Boy-Advance-Bomberman-Tournament-Bomberman_126
+    21300254: Game-Boy-Advance-Bomberman-Tournament-Bomberman_127
+    21300256: Game-Boy-Advance-Bomberman-Tournament-Bomberman_128
+    21300258: Game-Boy-Advance-Bomberman-Tournament-Bomberman_129
+    21300260: Game-Boy-Advance-Bomberman-Tournament-Bomberman_130
+    21300262: Game-Boy-Advance-Bomberman-Tournament-Bomberman_131
+    21300264: Game-Boy-Advance-Bomberman-Tournament-Bomberman_132
+    21300266: Game-Boy-Advance-Bomberman-Tournament-Bomberman_133
+    21300268: Game-Boy-Advance-Bomberman-Tournament-Bomberman_134
+    21300270: Game-Boy-Advance-Bomberman-Tournament-Bomberman_135
+    21300272: Game-Boy-Advance-Bomberman-Tournament-Bomberman_136
+    21300274: Game-Boy-Advance-Bomberman-Tournament-Bomberman_137
+    21300276: Game-Boy-Advance-Bomberman-Tournament-Bomberman_138
+    21300278: Game-Boy-Advance-Bomberman-Tournament-Bomberman_139
+    21300280: Game-Boy-Advance-Bomberman-Tournament-Bomberman_140
+    21300282: Game-Boy-Advance-Bomberman-Tournament-Bomberman_141
+    21300284: Game-Boy-Advance-Bomberman-Tournament-Bomberman_142
+    21300286: Game-Boy-Advance-Bomberman-Tournament-Bomberman_143
+    21300288: Game-Boy-Advance-Bomberman-Tournament-Bomberman_144
+    21300290: Game-Boy-Advance-Bomberman-Tournament-Bomberman_145
+    21300292: Game-Boy-Advance-Bomberman-Tournament-Bomberman_146
+    21300294: Game-Boy-Advance-Bomberman-Tournament-Bomberman_147
+    21300296: Game-Boy-Advance-Bomberman-Tournament-Bomberman_148
+    21300298: Game-Boy-Advance-Bomberman-Tournament-Bomberman_149
+    21300300: Game-Boy-Advance-Bomberman-Tournament-Bomberman_150
+    21300302: Game-Boy-Advance-Bomberman-Tournament-Bomberman_151
+    21300304: Game-Boy-Advance-Bomberman-Tournament-Bomberman_152
+    21300306: Game-Boy-Advance-Bomberman-Tournament-Bomberman_153
+    21300308: Game-Boy-Advance-Bomberman-Tournament-Bomberman_154
+    21300310: Game-Boy-Advance-Bomberman-Tournament-Bomberman_155
+    21300312: Game-Boy-Advance-Bomberman-Tournament-Bomberman_156
+    21300314: Game-Boy-Advance-Bomberman-Tournament-Bomberman_157
+    21300316: Game-Boy-Advance-Bomberman-Tournament-Bomberman_158
+    21300318: Game-Boy-Advance-Bomberman-Tournament-Bomberman_159
+    21300320: Game-Boy-Advance-Bomberman-Tournament-Bomberman_160
+    21300322: Game-Boy-Advance-Bomberman-Tournament-Bomberman_161
+    21300324: Game-Boy-Advance-Bomberman-Tournament-Bomberman_162
+    21300326: Game-Boy-Advance-Bomberman-Tournament-Bomberman_163
+    21300328: Game-Boy-Advance-Bomberman-Tournament-Bomberman_164
+    21300330: Game-Boy-Advance-Bomberman-Tournament-Bomberman_165
+    21300332: Game-Boy-Advance-Bomberman-Tournament-Bomberman_166
+    21300334: Game-Boy-Advance-Bomberman-Tournament-Bomberman_167
+    21300336: Game-Boy-Advance-Bomberman-Tournament-Bomberman_168
+    21300338: Game-Boy-Advance-Bomberman-Tournament-Bomberman_169
+    21300340: Game-Boy-Advance-Bomberman-Tournament-Bomberman_170
+    21300342: Game-Boy-Advance-Bomberman-Tournament-Bomberman_171
+    21300344: Game-Boy-Advance-Bomberman-Tournament-Bomberman_172
+    21300346: Game-Boy-Advance-Bomberman-Tournament-Bomberman_173
+    21300348: Game-Boy-Advance-Bomberman-Tournament-Bomberman_174
+    21300350: Game-Boy-Advance-Bomberman-Tournament-Bomberman_175
+    21300352: Game-Boy-Advance-Bomberman-Tournament-Bomberman_176
+    21300354: Game-Boy-Advance-Bomberman-Tournament-Bomberman_177
+    21300356: Game-Boy-Advance-Bomberman-Tournament-Bomberman_178
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 264
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0022815c0d3677648828c3ff89cb5a49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 264
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9066b522e5cf4e14e8e09bafae87226a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 264
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d103c95aed00834dae4c809852393bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 264
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf611e7b381360743a5f3a801631fc1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 264
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 3, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1b15c4f85e2534c894cc3d852db361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_5
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 264
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1970e10c2bbd6664cbcb47f695bfb266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 264
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b5c0ae28694964f88bf97a263802f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_7
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 264
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f49dd33c0cc3bd43a7abdebd138f29a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_8
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 264
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c40789e347a0324d88e38701441cb0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 264
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20d507c9e34e9f478778f90d894a31d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_10
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 264
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2857aacd06a0fb440b781aefcffaf268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_11
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 264
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bd8bc4b1de6ce4e8812aa6692b3a64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_12
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 264
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a9ecbd5e4c5244291f7aa45efd0d25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 238
+        width: 200
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19a1280b35fff5478de9ca941ec590f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_14
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 238
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2521ff733deeda24996db747e7a2c739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_15
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 238
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdeff11fc5162e44a9eb06d32599f6ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 238
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c08d5e3c350c9e4ebfcf2eaea764c6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_17
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 238
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c7ac1c84e611a448e9cad495bf834b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_18
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 238
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c465a29ec82f0244952dea4d732edd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 238
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9166171ac3ee4b4388fd7528e14dcee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_20
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 238
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a743b131e47f17a4bb70b9f8362129b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_21
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 238
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b98bad7c81d9fa4cb9129709afff797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_22
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 238
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6fd387db6e677438c1f89c1621fd82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_23
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 210
+        width: 204
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72c0f7b0461f554b9fbe58c4a66c3be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_24
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 210
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620de80b6661aa74db953f43d09c1acf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_25
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 210
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbae0e6f2649d564c9f0f3663ed971ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_26
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 210
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0f0c73995525348b0f710af5c5d9c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_27
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 210
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfdf69008db52e4ebf528d1415bed97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_28
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 210
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11a78bb700bece488e015179a38c9af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_29
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 210
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781375d62960cd8498104b618cb3d25d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_30
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 210
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf09663bbb9d53478093b828fd1f878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_31
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 210
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec476ddafaf72c42a18b573697fcd6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_32
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 210
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0d025b611a84442a2562144e7e20a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_33
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 210
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f46e7b3e68f0a4d8b72b4bc4a9b465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 210
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b06e267f5713d49b9d5146ef1272b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_35
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 183
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669757beaba8f2948b78274f1cb6c49f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 181
+        width: 200
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cb2473a3cc8f240946e085383dc7ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_37
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 183
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b652caa7fb9949442a4f95dd6e0b18ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_38
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 183
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27192ef6a96f23f449a1d5369dd8a409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_39
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 183
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22e66e5bf57f0a42a452732f60c5b4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_40
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 183
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d1522013a77d94488860f7e754c4cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_41
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 181
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a119a0331fd0c4d872ef1a2209ba25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 181
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579c9f44bb4b47e42902c5875e63f835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_43
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 185
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20557c34e38be1b4a903801a5da50d6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_44
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 189
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b0c3a0cb704514da4dd5559a0a7487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_45
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 184
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b828bca5261778c4197d9050934f2e95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_46
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 182
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859ea6e786173284095a6c25adb2e75b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 181
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc4fae945a9f3e4598ebf54b8632be7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 155
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea24a0697408ce4ab757f166e76388e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_49
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 154
+        width: 200
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d89e59b2d8d6cc4d94c35eb3b6fd50e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_50
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 155
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97379e92b0bb3ac4eb178f012c53cd61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_51
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 155
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dd0dae66df85b49ac1267708d2fa98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_52
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 155
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b963c8cd973dd5448a4fa8b8d1dde0c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_53
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 155
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869f618e9cc220b4a8b5d65de0429048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_54
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 155
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1afa9b6eb64a14daecc55955fc5a88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_55
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 155
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669f17cac1549c8469d353690d689e93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_56
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 154
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275cb77210b955c4380cdad133dbb312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_57
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 154
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81604a4b2349fd40bb3d169a81de016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_58
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 154
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7128ae4966f6c544b9cdf5de2cd1eefb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 154
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c81381383df0e745a70c73fb1d6b84c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_60
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 154
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd1b3649426c2842b47ac3b5e4d4bab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_61
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 154
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a6e51c60bbea041b98c928607ad109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_62
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 125
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4042f1f975ccd874d91df359ef6a101a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_63
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 125
+        width: 201
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786315e9c82124948816c8f729aaa146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_64
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 125
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2670707e7163e154e83afef5fd9aca0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_65
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 125
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778358765001fce41b1c71c733cde8ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_66
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 125
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04b7cd342e07494e843ee600cda5d92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_67
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 125
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf396a0de3c5cd429e2856b54de332c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_68
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 125
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e334d8571ec1fa4fb9726250e90e89d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_69
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 125
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da209413d4104b649a5d72f291014031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_70
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 126
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7e520a950f99c4798332d4c0581dda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_71
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 126
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214cc80db7e546245949268a023fa2e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_72
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 126
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e69abc25edb6e46979c83f7be5fc6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_73
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 126
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb6b60d84b2d0848b72590e178f5d68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d498c38256b725342a84fc424fb468be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_75
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 101
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cece84a875331e642ba24f3ed6e8f7e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_76
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 98
+        width: 200
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1e9beeda40f0144a5e7dbb27854837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_77
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 101
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a4d98957189ec429612b18a6fa328b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_78
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 101
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716611077870ed94cb470dfae8ecf447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 98
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81771058dce553b4092b7803f3e5e271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_80
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 98
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df51f48828462c4e80966b095aaf12b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_81
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 98
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ca71a47e7006846963b5fe101af5c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 98
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97bf6879eb02e040b65fe75e5fb7ea8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_83
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 98
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922854325539a3242943e50d2c92d571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_84
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 101
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4050aa954ae0049ac2717fd812bac7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_85
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 101
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e248d44b44ccdde4e94c66a82027adf6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_86
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 101
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772d06a1150a1694fbadd80f9eddb3d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_87
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 101
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e914445f9060ef649818c0d64a98773d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_88
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 98
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39297b833866b144cb0db61747cfb50b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_89
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 98
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1016bb4df32c014e9d443c98253f918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_90
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 98
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f9b2d45f728cb4590871a60beadb0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_91
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 62
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8689fe80115b464ca99f104404b03d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_92
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 57
+        width: 200
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c819eb05fb1a624ab3227e92f1c1a5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_93
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 62
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9452b8958430484409e76cf5648ef189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_94
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 57
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9049130f90093c4f9ec458eab3450fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_95
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 71
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f2a2042333e3a4d9bc3f1404a7c45b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_96
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 71
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4cf6bff6f208c4fb5a98bd597bb64f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_97
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 71
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7084eb2ef2d58384da7844a412f2574f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_98
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 71
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67dc5058dcccc634182ef929df4346b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_99
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 71
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f947acc7b5ea9ec49af2e5f97db5920f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_100
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 71
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d9251cd77463541b849e5da251f66f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_101
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 71
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9d03a2da8b12b41b950daaa43cef16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_102
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 60
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2906ee595edeb204d82fd45c95fdef5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_103
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 60
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7795f9b0c9d62bd41a1cbd4a2167860a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_104
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 60
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdb0b0e1a20f3d4886e4153da6b432d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_105
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 60
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af476f2861a5cc4789da1e686ef3370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_106
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 60
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfac0385b482b141bbf00f4e7983312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_107
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 60
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a13cf707b6da004890867336325cfcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_108
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 60
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b142ac2bf3a8864685ddcc56310a02b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_109
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 37
+        width: 200
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e782f9fc675236f4fb550c4d7e2c81c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_110
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 37
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462cd16effc654d44a0006e0338f544c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_111
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff6f1d7bd343ce4fb7ec734a940dc2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_112
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf5ee4e36d03a248a5a65b133505f16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_113
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b74bf6c724527e4aa01a6d3844e057f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_114
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb4b9c4de56a574f8d79bffd8442e21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_115
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfb175bf7a699f459c5093782b33d56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_116
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a5bc882c3fa6641bbcf386a0e4b761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_117
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a350d2a24a98304099bce0841b3dd33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_118
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceca8a8670c8fd24d9debcab06a2e3df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_119
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fd8569cf068c9408c646d88c9a7b1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_120
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfc1cb2a6bc51f4fa45c09365b11844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_121
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 23
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0acb1000f89484f9ac1da0c5b13b14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c065c584d8988f24c952648d468a349d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_123
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8eab1caba2f4e44a0d105532079d0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_124
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 12
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d162d607bd49145b0eac5e9bce7aa5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_125
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 12
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4e9a4f36008d74895c0f7c478a7613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_126
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 12
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cc27329af38004ca9d7915c6f1dde1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_127
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 12
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43a642d47b2c9843a8c6afca0434544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_128
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 12
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4557c0f4b814347b29f5b5cda1bb09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_129
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 12
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11252b65cfb89d04f866c5bbcd299074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 12
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac93e5a34f44b54788b24a8097107ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_131
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 12
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92811dac6fd3c5409d8b9d7cf6f9add
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_132
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 12
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a080a275421d7494b9461fa4d8bf6c3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_133
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 12
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e4add23e7c30b4c8ad26ef346b493c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_134
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 12
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9b3dae373594340ba980858916a640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_135
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 12
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c79191ea1a0700448cbe805360aa051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_136
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 12
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb858a5061db1f428afec410650e33f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_137
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 12
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999b2e470f81f414687ed9470e9db66b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_138
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 12
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04721d21ea4c7534f8fbdb1933bcab53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_139
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 12
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223b1097c7a163b4590f8025a531ab86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_140
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 12
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829e6d28a0c5d2242b315f0b9555a2b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_141
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 12
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e321b877f910c644aec3e7e68043c51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_142
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 12
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3677cc979db9c748a0d4c7140e1a2e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_143
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 12
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512f033195bf2f8459e7264fdb2f527c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_144
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 12
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81bdd0a775bd224d8aad17f4f183d17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_145
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 12
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7743e133caa07574db91c98b949069f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_146
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990514266f0463e499821d837d194cc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_147
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 8
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3f353fdd723dc459ad2d5fb80e0f28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_148
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 10
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f636b2f63371ad649a23e5023888f20f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_149
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 12
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44e15fb6b44c1648a9c66781bce2be0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_150
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 12
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690f2d7337a623646aad36fe5fe017cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_151
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 10
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3459bbccea491724b992c9e676f0bd8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_152
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 12
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8d388cfebc45e438fa61eb18e05ba0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_153
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 12
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2e2c2766a8acc45a692633e098b574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_154
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 10
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f631b7cbcd65c40bf0bd478aa75278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_155
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 10
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50f17bd35d9076489d2b8f548f69236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_156
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2abeeba95c942409c876741812317e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_157
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1268ac98e9bddd24490203ca89b2b103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_158
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acb32ccb0c231045b1628d43f490f7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_159
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf35a32285f6cf4bb97113008cf541f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_160
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8d2f68ed9fd424ba97be327a280287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_161
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0bbf77aca73484dba8e6b70dde64f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_162
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca266ddcb804e9842b0774ac054a25b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_163
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee95c924fd25834c8d152758bc7f3b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_164
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c341703558fd34382bbd2f28904202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_165
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 2
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083a57dc7b9513345975f6fcbf9a598d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_166
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4988b4ed5d8a106409525a58ea29d3de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_167
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 2
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7f6a5cd45e33842a04a67d76591851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_168
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e31d882e2e2534cabf91952ce8d448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_169
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d9b2c555aa13c4092f76738ee0e873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_170
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09689f94297484418f0a3b80e54b4bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_171
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af10ab104799f24429081f85c8d6d54e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_172
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0c758d8a09aa343943f0d87ae255d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_173
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7acb18f3bd4f824ea6b5a6651e24133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_174
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d522df122f05c449a084ca4d01fc65b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_175
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1b20013ef126a4f9bbe092e4ac1b5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_176
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 2
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6ff5583779ad64896f020d946033ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_177
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409472bec4ed5674ab79a3edf82e6c03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance-Bomberman-Tournament-Bomberman_178
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea6db9fa82996e4fb983e8d5152909a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1a2d8d218274f4f4cba64089781cd3a4
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
